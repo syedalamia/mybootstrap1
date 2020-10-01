@@ -1,0 +1,30 @@
+.img-flower {
+    max-width: 5%;
+    height: auto;
+}
+
+.hover-header:hover{
+	color: #df4a43;
+	transition: 0.3s ease-in-out;
+}
+
+
+.borderline{
+
+   border-bottom: 3px solid #cad9c7;
+    width: 117px;
+}
+
+
+.card_img {
+    width: 250px;
+    height: 250px;
+}
+
+
+
+.second_card{
+
+    padding-top: 197px;
+
+}
